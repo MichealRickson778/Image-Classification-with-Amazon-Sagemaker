@@ -1,0 +1,25 @@
+Image Classification with Amazon Sagemaker
+
+Objectives:
+
+1. Prepare data for sagemaker image classifier
+2. Train a model using sagemaker
+3. Deploy a model using Sagemaker
+
+By the end, you will able to create, train and deploy image Classifiers using Sagemaker
+
+Project Structure
+
+1. Create Notebook Instance
+2. Download the data
+3. Extracting Annotations
+4. Visualize the data
+5. Training Image for the Algorithm
+6. Prepare data for Sagemaker
+7. Uploading Data to s3
+8. Sagemaker Estimator
+9. Hyperparameters
+10. Data Channels
+11. Model Training
+12. Deploy Model
+13. Final Predictions
